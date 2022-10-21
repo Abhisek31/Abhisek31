@@ -1,7 +1,7 @@
 [![MasterHead](https://personal.root--gamer.workers.dev/0:/cooltext421879187925428.gif)](https://github.com/Abhisek31)
 <h1 align="center">Hi 👋, I'm Abhisek Majumder</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/1d/1dc2e92177c43cac5bd2f59de5381a15.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisek31&label=Profile%20views&color=0e75b6&style=flat" alt="abhisek31" /> </p>
 
