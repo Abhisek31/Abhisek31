@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently Working on **OWn website**
 
-- 🌱 I’m currently learning **Java-mongodb and deled,Iti Electt.. (Not cooding related)**
+- 🌱 I’m currently learning **Java-mongodb and (deled,Iti Electt.. (Not cooding related))**
 
 - 👯 I’m looking to collaborate on **Cloning**
 
