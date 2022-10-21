@@ -25,6 +25,8 @@
 
 - ⚡ Fun fact **learning for competitive job , done Elect on Iti,DELED ,nd now web design**
 
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/1d/1dc2e92177c43cac5bd2f59de5381a15.gif">
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
