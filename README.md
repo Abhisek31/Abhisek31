@@ -1,4 +1,4 @@
-[![MasterHead](https://personal.root--gamer.workers.dev/0:/1ykv.gif)(https://gifer.com/1ykv))](https://github.com/Abhisek31)
+[![MasterHead](https://blog.zoho.com/wp-content/uploads/2019/08/new-Converted.gif)(https://gifer.com/1ykv))](https://github.com/Abhisek31)
 <h1 align="center">Hi 👋, I'm Abhisek Majumder</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/1d/1dc2e92177c43cac5bd2f59de5381a15.gif">
