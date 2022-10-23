@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **abhi3ek@gmail.com**
 
-- ⚡ Fun fact **learning for competitive job , done Elect on Iti,DELED ,nd now web design**
+- ⚡ Fun fact **learning for competitive job , done Elect on Iti,nd now web design**
 
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/1d/1dc2e92177c43cac5bd2f59de5381a15.gif">
 
