@@ -34,6 +34,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abhisek331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhisek331" height="30" width="40" /></a>
+<a href="https://t.me/XdaAbhi" target="blank"><img align="center" src="https://github.com/Abhisek31/link-for-repo-not-private-/blob/main/Tg_byxda.png?raw=true" alt="XdaAbhi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/the.hacker.boy.391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="the.hacker.boy.391" height="30" width="40" /></a>
 <a href="https://fb.com/the.hacker.boy.391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="the.hacker.boy.391" height="30" width="40" /></a>
 <a href="https://instagram.com/abhi3ek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhi3ek" height="30" width="40" /></a>
