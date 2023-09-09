@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with **Backend developer**
 
-- 👨‍💻 All of my projects are available at [Abhisek331@gitrhub](Abhisek331@gitrhub)
+- 👨‍💻 All of my projects are available at [Abhisek331@github](Abhisek331@github)
 
 - 💬 Ask me about **java Script , css ,**
 
