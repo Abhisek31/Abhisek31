@@ -1,5 +1,5 @@
 [![MasterHead](https://personal.root--gamer.workers.dev/0:/cooltext421879187925428.gif)](https://github.com/Abhisek31)
-<h1 align="center">Hi 👋, I'm Abhisek Majumder</h1>
+<h1 align="center">Hi 🙏🏼, I'm Abhisek Majumder</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
